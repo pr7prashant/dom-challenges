@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  margin-top: 64px;
+  text-align: center;
+}
+
+.fa-star {
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.fa-solid {
+  color: goldenrod;
+}
