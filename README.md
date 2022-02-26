@@ -2,6 +2,7 @@
 
 ### Table of Contents
 
-| No. | Topic                                                                         |
-| --- | ----------------------------------------------------------------------------- |
-| 1   | [Pixel Art](https://pr7prashant.github.io/dom-challenges/PixelArt/index.html) |
+| No. | Topic                                                                                    |
+| --- | ---------------------------------------------------------------------------------------- |
+| 1   | [Pixel Art](https://pr7prashant.github.io/dom-challenges/PixelArt/index.html)            |
+| 2   | [Star Rating Widget](https://pr7prashant.github.io/dom-challenges/StarRating/index.html) |
