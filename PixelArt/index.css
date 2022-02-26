@@ -1,5 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+#board-container {
+  margin-top: 64px;
+  text-align: center;
+}
+
 .row {
   display: flex;
+  justify-content: center;
 }
 
 .cell {
