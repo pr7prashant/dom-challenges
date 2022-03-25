@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+.scroll-container {
+  overflow: auto;
+  height: 500px;
+  border: 1px solid #222222;
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  height: 74px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.row .thumbnail {
+  width: 42px;
+  height: 42px;
+  border: 1px solid #222222;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.row .album {
+  margin-left: 16px;
+}
