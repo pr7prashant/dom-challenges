@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.board {
+  display: inline-block;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  width: 70px;
+  height: 70px;
+  border: 1px solid #222222;
+  box-sizing: border-box;
+}
+
+.bg-black {
+  background-color: #222222;
+}
+
+.bg-red {
+  background-color: rgb(201, 49, 49);
+}
