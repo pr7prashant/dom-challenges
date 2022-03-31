@@ -7,3 +7,6 @@
 | 1   | [Pixel Art](https://pr7prashant.github.io/dom-challenges/PixelArt/index.html)            |
 | 2   | [Star Rating Widget](https://pr7prashant.github.io/dom-challenges/StarRating/index.html) |
 | 3   | [Virtual Scroll](https://pr7prashant.github.io/dom-challenges/VirtualScroll/index.html)  |
+| 4   | [Chess Board](https://pr7prashant.github.io/dom-challenges/ChessBoard/index.html)        |
+| 5   | [Progress Bar](https://pr7prashant.github.io/dom-challenges/ProgressBar/index.html)      |
+| 6   | [Memory Game](https://pr7prashant.github.io/dom-challenges/MemoryGame/index.html)        |
