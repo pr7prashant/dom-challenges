@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "speed": 1,
+      "color": "red"
+    },
+    {
+      "speed": 2,
+      "color": "green"
+    },
+    {
+      "speed": 3,
+      "color": "yellow"
+    },
+    {
+      "speed": 2,
+      "color": "blue"
+    },
+    {
+      "speed": 1,
+      "color": "purple"
+    }
+  ]
+}
