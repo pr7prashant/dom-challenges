@@ -11,3 +11,4 @@
 | 5   | [Progress Bar](https://pr7prashant.github.io/dom-challenges/ProgressBar/index.html)      |
 | 6   | [Memory Game](https://pr7prashant.github.io/dom-challenges/MemoryGame/index.html)        |
 | 7   | [Search Bar](https://pr7prashant.github.io/dom-challenges/SearchBar/index.html)          |
+| 8   | [Form](https://pr7prashant.github.io/dom-challenges/Form/index.html)                     |
