@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.head {
+  cursor: pointer;
+  line-height: 30px;
+}
+
+.name {
+  margin-left: 6px;
+}
+
+.children {
+  margin-left: 24px;
+}
+
+.collapsed {
+  display: none;
+}
