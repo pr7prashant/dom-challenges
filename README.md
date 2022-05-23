@@ -16,3 +16,4 @@
 | 10  | [Product Listing Page](https://pr7prashant.github.io/dom-challenges/ProductListing/index.html) |
 | 11  | [Tic Tac Toe](https://pr7prashant.github.io/dom-challenges/TicTacToe/index.html)               |
 | 12  | [File Tree](https://pr7prashant.github.io/dom-challenges/FileTree/index.html)                  |
+| 13  | [Stopwatch](https://pr7prashant.github.io/dom-challenges/Stopwatch/index.html)                 |
