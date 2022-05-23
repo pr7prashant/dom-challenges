@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.stopwatch {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.time {
+  font-size: 72px;
+}
+
+.controls {
+  padding: 8px;
+  box-sizing: border-box;
+}
