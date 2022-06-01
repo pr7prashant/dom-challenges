@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+.carousel {
+  display: flex;
+  width: 500px;
+  height: 200px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0 8px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  margin: 0 auto;
+  background-size: cover;
+}
+
+.arrow {
+  display: flex;
+  font-size: 56px;
+  color: red;
+  font-weight: bold;
+  align-items: center;
+  cursor: pointer;
+}
