@@ -18,3 +18,4 @@
 | 12  | [File Tree](https://pr7prashant.github.io/dom-challenges/FileTree/index.html)                  |
 | 13  | [Stopwatch](https://pr7prashant.github.io/dom-challenges/Stopwatch/index.html)                 |
 | 14  | [Carousel](https://pr7prashant.github.io/dom-challenges/Carousel/index.html)                   |
+| 15  | [Pagination](https://pr7prashant.github.io/dom-challenges/Pagination/index.html)               |
