@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  padding: 8px 12px;
+  box-sizing: border-box;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+
+.selected {
+  background-color: #ccc;
+}
